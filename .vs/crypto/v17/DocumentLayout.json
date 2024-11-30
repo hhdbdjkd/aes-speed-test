@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\MIE\u0027s code_2\\crypto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A4C01C-B28A-482F-810D-447E73B9C00C}|crypto2.vcxproj|L:\\MIE\u0027s code_2\\crypto2\\test_openssl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A4C01C-B28A-482F-810D-447E73B9C00C}|crypto2.vcxproj|solutionrelative:test_openssl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A4C01C-B28A-482F-810D-447E73B9C00C}|crypto2.vcxproj|L:\\MIE\u0027s code_2\\crypto2\\speedtest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A4C01C-B28A-482F-810D-447E73B9C00C}|crypto2.vcxproj|solutionrelative:speedtest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_openssl.cpp",
+              "DocumentMoniker": "L:\\MIE\u0027s code_2\\crypto2\\test_openssl.cpp",
+              "RelativeDocumentMoniker": "test_openssl.cpp",
+              "ToolTip": "L:\\MIE\u0027s code_2\\crypto2\\test_openssl.cpp",
+              "RelativeToolTip": "test_openssl.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAxwEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:21:07.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "speedtest.cpp",
+              "DocumentMoniker": "L:\\MIE\u0027s code_2\\crypto2\\speedtest.cpp",
+              "RelativeDocumentMoniker": "speedtest.cpp",
+              "ToolTip": "L:\\MIE\u0027s code_2\\crypto2\\speedtest.cpp",
+              "RelativeToolTip": "speedtest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T08:56:40.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
