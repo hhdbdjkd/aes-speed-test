@@ -68,7 +68,7 @@ bool test_openssl(const unsigned char* data, double av1, double sig1) {
     double v = (double)(cl - t0) / (20 * len);
     sig /= av;
     av = (av - t0) / (20 * len);
-    std::cout << "openssl:  " << v-1 << "   " << av-1 << "   " << sig * 100 << "%" << std::endl;
+    std::cout << "openssl:  " << v << "   " << av << "   " << sig * 100 << "%" << std::endl;
     return 1;
 }
 

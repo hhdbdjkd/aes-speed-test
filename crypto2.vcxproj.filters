@@ -18,40 +18,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="2mb.bin">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="4mb.bin">
-      <Filter>资源文件</Filter>
-    </None>
     <None Include="1kb.bin">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="1kb2.bin">
       <Filter>资源文件</Filter>
     </None>
     <None Include="libcrypto-3-x64.dll" />
     <None Include="libssl-3-x64.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_original.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test_openssl.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="speedtest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test_unrolling.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test_align.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test_all.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="aes_libtom.c">
       <Filter>代码注释</Filter>
     </ClCompile>
@@ -61,11 +34,26 @@
     <ClCompile Include="libtom_Align.c">
       <Filter>代码注释</Filter>
     </ClCompile>
-    <ClCompile Include="libtom_detect.c">
-      <Filter>代码注释</Filter>
-    </ClCompile>
     <ClCompile Include="libtom_unrolling.c">
       <Filter>代码注释</Filter>
+    </ClCompile>
+    <ClCompile Include="speedtest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_align.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_all.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_openssl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_original.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_unrolling.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
